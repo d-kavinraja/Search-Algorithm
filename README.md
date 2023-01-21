@@ -43,7 +43,7 @@ else:
 ii)
 ```
 Program to find the element in a list using Binary Search(Iterative Method)..
-Developed by:Kavinraja D
+Developed by: Kavinraja D
 RegisterNumber: 22007928
 
 def binarySearchIter(array, k, low, high):
@@ -70,7 +70,7 @@ else:
 iii)
 ```
 Program to find the element in a list using Binary Search (recursive Method).
-Developed by: your name : Kavinraja D
+Developed by: Kavinraja D
 RegisterNumber: 22007928
 
 def BinarySearch(arr, k, low, high):
