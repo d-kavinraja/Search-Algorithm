@@ -41,7 +41,7 @@ else:
     print("Element found at index: ", result)
 ```
 ii)
-''' 
+```
 Program to find the element in a list using Binary Search(Iterative Method)..
 Developed by:Kavinraja D
 RegisterNumber: 22007928
