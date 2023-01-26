@@ -95,12 +95,18 @@ else:
     print(arr)
     print("Element found at index: ",result)
 ```
-## Sample Input and Output
+## Output
+
 i)
+![Output](./image/linear.png)
 
+ii)
 
+![Output](./image/binary.png)
 
+iii)
 
+![Output](./image/binary%202.png)
 
 
 
